@@ -1,0 +1,30 @@
+---
+title: "CPJH Letter"
+author: "Daniel Fuller"
+date: "11/03/2020"
+output:
+      html_document:
+        keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+https://github.com/Big-Life-Lab/cchsflow
+
+https://github.com/mountainMath/cancensus
+
+https://github.com/mountainMath/cansim
+
+https://github.com/mountainMath/VancouvR
+
+https://github.com/mountainMath/cmhc
+
+
+https://ipums.org/
+
+https://github.com/jdemello/valetr
+
